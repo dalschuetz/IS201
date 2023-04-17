@@ -1,0 +1,21 @@
+ul{
+    font-weight: normal;
+}
+.footer{    
+    background-color: black;
+    color: white;
+    height: 25px;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+    font-size: medium;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.footer a:hover{
+    background-color: grey;}

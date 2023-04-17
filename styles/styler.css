@@ -1,0 +1,76 @@
+body{
+    background-color:rgb(251, 221, 182);
+}
+.common{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header{
+    height: 100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(191, 191, 191);
+    padding: 10px;
+    overflow: hidden;
+}
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+nav a:hover{
+    background-color: #ccc;
+}
+.body{
+    background-color:rgb(251, 221, 182);
+    text-align: left;
+    color: black;
+    border: solid black;
+    padding: 10px
+}
+h2{
+    text-decoration: underline;
+}
+.footer{    
+    background-color: black;
+    color: white;
+    height: 25px;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.footer a:hover{
+    background-color: grey;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
+.tableau{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 75%;
+}
